@@ -1,0 +1,20 @@
+.content {
+    background: white;
+    padding: 1.5rem;
+    margin: 1rem;
+    border-radius: 5px;
+    max-width: 600px;
+    margin: 1rem auto;
+  }
+  
+  .content h2 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .content p {
+    line-height: 1.5;
+    color: #333;
+  }
+  

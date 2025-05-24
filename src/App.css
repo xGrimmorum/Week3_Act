@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  background-color: #93e0ff;
+  min-height: 100vh;
+}
